@@ -15,7 +15,7 @@ eliminar la atención en caja.
 - José Andrés De La Roca Martínez — 1142124
 
 ## Herramientas principales
-- Control de versiones: GitHub
+- Versionamiento: GitHub
 - Planificación: GitHub Projects
 - Documentación: Word (Microsoft 365 / OneDrive)
 - Diseño: draw.io, Figma
